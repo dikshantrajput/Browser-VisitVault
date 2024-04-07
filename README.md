@@ -51,7 +51,7 @@ Browser VisitVault is compatible with Google Chrome and Chromium-based browsers,
 ## Contributing
 Contributions from the community are welcome to improve Browser VisitVault's functionality and features. To contribute to the development of this extension, follow these steps:
 
-1. Fork the repository from [GitHub Repository Link].
+1. Fork the repository from [GitHub Repository Link](https://github.com/dikshantrajput/Browser-VisitVault).
 2. Make your changes or enhancements.
 3. Submit a pull request to the master repository.
 4. Alternatively, if you encounter any issues or bugs while using Browser VisitVault, please raise an issue on the GitHub repository for prompt resolution.
