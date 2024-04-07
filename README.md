@@ -1,4 +1,4 @@
-# Browser VisitVault ([download](https://github.com/dikshantrajput/Browser-VisitVault/blob/main/browser-visit-vault.zip))
+# Browser VisitVault ([download](https://github.com/dikshantrajput/Browser-VisitVault/blob/master/browser-visit-vault.zip))
 
 ## Description
 Browser VisitVault is a powerful Chrome extension designed to enhance your browsing experience by providing comprehensive tracking and organization of visited URLs. With Browser VisitVault, effortlessly keep track of the websites you've visited within specific domains, ensuring easy access to previously viewed content.
@@ -15,7 +15,7 @@ Browser VisitVault is a powerful Chrome extension designed to enhance your brows
 
 
 ## Installation
-1. Clone the [extension repository](https://github.com/dikshantrajput/Browser-VisitVault) or [download](https://github.com/dikshantrajput/Browser-VisitVault/blob/main/browser-visit-vault.zip).
+1. Clone the [extension repository](https://github.com/dikshantrajput/Browser-VisitVault) or [download](https://github.com/dikshantrajput/Browser-VisitVault/blob/master/browser-visit-vault.zip).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the upper-right corner.
 4. Click on the "Load unpacked" button located at the top-left corner of the extensions page.
@@ -53,7 +53,7 @@ Contributions from the community are welcome to improve Browser VisitVault's fun
 
 1. Fork the repository from [GitHub Repository Link].
 2. Make your changes or enhancements.
-3. Submit a pull request to the main repository.
+3. Submit a pull request to the master repository.
 4. Alternatively, if you encounter any issues or bugs while using Browser VisitVault, please raise an issue on the GitHub repository for prompt resolution.
 
 ## Disclaimer
