@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/icon/logo.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visited URLs</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f3f3f3;
+        }
+
+        #app {
+            min-width: 300px;
+            max-width: 500px;
+            margin: 0 auto;
+            background-color: #ffffff; 
+            border-radius: 10px; 
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        }
+
+        h1 {
+            color: #333333; 
+            font-size: 24px;
+            text-align: center;
+        }
+        
+        h4 {
+            color: #333333a4; 
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 15px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+            word-break: break-all;
+        }
+
+        a {
+            color: #007bff; 
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .no-data {
+            color: #999999;
+            font-style: italic;
+        }
+
+        .footer {
+            text-align: center;
+            color: #666666; 
+            margin-top: 20px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <h1>Visited URLs</h1>
+        <h4>Total visited urls on this domain: <span id="visitedUrlsCount"></span></h4>
+        <ul id="urlList"></ul>
+        <div class="footer">Made with ❤️ by <a href="https://github.com/dikshantrajput" target="_dk">Dikshant Rajput</a></div>
+    </div>
+    <script type="module" src="/src/popup/index.js"></script>
+</body>
+</html>
