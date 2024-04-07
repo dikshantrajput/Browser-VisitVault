@@ -40,7 +40,6 @@ Follow these steps to run the YouTube Skipper Chrome Extension on your local mac
     npm run build
 ```
 
-<!-- TODO: read -->
 ## Usage
 1. Once installed, Browser VisitVault will automatically start working whenever you visit websites within designated domains.
 2. Navigate through websites within the specified domains as you normally would, knowing that Browser VisitVault is capturing your browsing history in real-time.
