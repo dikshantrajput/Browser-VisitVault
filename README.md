@@ -1,7 +1,7 @@
-# Browser VisitVault ([download](https://github.com/dikshantrajput/Browser-VisitVault/blob/master/browser-visit-vault.zip))
+# VisitVault ([download](https://github.com/dikshantrajput/Browser-VisitVault/blob/master/browser-visit-vault.zip))
 
 ## Description
-Browser VisitVault is a powerful Chrome extension designed to enhance your browsing experience by providing comprehensive tracking and organization of visited URLs. With Browser VisitVault, effortlessly keep track of the websites you've visited within specific domains, ensuring easy access to previously viewed content.
+VisitVault is a powerful Chrome extension designed to enhance your browsing experience by providing comprehensive tracking and organization of visited URLs. With VisitVault, effortlessly keep track of the websites you've visited within specific domains, ensuring easy access to previously viewed content.
 
 ## Features
 - **Automatic Tracking:** Automatically tracks and records URLs visited within the specified domain, reducing manual effort.
@@ -41,20 +41,20 @@ Follow these steps to run the YouTube Skipper Chrome Extension on your local mac
 ```
 
 ## Usage
-1. Once installed, Browser VisitVault will automatically start working whenever you visit websites within designated domains.
-2. Navigate through websites within the specified domains as you normally would, knowing that Browser VisitVault is capturing your browsing history in real-time.
+1. Once installed, VisitVault will automatically start working whenever you visit websites within designated domains.
+2. Navigate through websites within the specified domains as you normally would, knowing that VisitVault is capturing your browsing history in real-time.
 3. To access your visited URL history, click on the extension icon in the Chrome toolbar, and you get to view the list of visited URLs for the current domain.
 
 ## Compatibility
-Browser VisitVault is compatible with Google Chrome and Chromium-based browsers, ensuring seamless integration with your preferred browsing platform.
+VisitVault is compatible with Google Chrome and Chromium-based browsers, ensuring seamless integration with your preferred browsing platform.
 
 ## Contributing
-Contributions from the community are welcome to improve Browser VisitVault's functionality and features. To contribute to the development of this extension, follow these steps:
+Contributions from the community are welcome to improve VisitVault's functionality and features. To contribute to the development of this extension, follow these steps:
 
 1. Fork the repository from [GitHub Repository Link](https://github.com/dikshantrajput/Browser-VisitVault).
 2. Make your changes or enhancements.
 3. Submit a pull request to the master repository.
-4. Alternatively, if you encounter any issues or bugs while using Browser VisitVault, please raise an issue on the GitHub repository for prompt resolution.
+4. Alternatively, if you encounter any issues or bugs while using VisitVault, please raise an issue on the GitHub repository for prompt resolution.
 
 ## Disclaimer
-Browser VisitVault is an independent project developed solely for the purpose of enhancing the browsing experience by tracking and organizing visited URLs within specified domains. It is not endorsed by or affiliated with Google Chrome or any other browser manufacturer.
+VisitVault is an independent project developed solely for the purpose of enhancing the browsing experience by tracking and organizing visited URLs within specified domains. It is not endorsed by or affiliated with Google Chrome or any other browser manufacturer.
