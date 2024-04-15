@@ -1,8 +1,8 @@
 {
-  "name": "Browser VisitVault",
+  "name": "VisitVault",
   "version": "0.1.0",
   "author": "Dikshant Rajput",
-  "description": "Browser VisitVault is a powerful Chrome extension designed to enhance your browsing experience by providing comprehensive tracking and organization of visited URLs. With Browser VisitVault, effortlessly keep track of the websites you've visited within specific domains, ensuring easy access to previously viewed content.",
+  "description": "VisitVault is a powerful Chrome extension designed to enhance your browsing experience by providing comprehensive tracking and organization of visited URLs. With VisitVault, effortlessly keep track of the websites you've visited within specific domains, ensuring easy access to previously viewed content.",
   "type": "module",
   "license": "MIT",
   "keywords": [
